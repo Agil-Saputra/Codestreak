@@ -5,7 +5,6 @@ import { FlameIcon as Fire, Home, ShoppingBag, BarChart3 } from "lucide-react";
 import {
   Sidebar,
   SidebarContent,
-  SidebarFooter,
   SidebarGroup,
   SidebarGroupContent,
   SidebarGroupLabel,

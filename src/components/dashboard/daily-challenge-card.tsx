@@ -16,7 +16,7 @@ export function DailyChallengeCard({ onSolveProblem }: DailyChallengeCardProps) 
           <div className="text-center md:text-left">
             <h3 className="text-2xl font-bold mb-2 flex items-center gap-2">
               <Zap className="w-6 h-6" />
-              Ready for Today's Challenge?
+              Ready for Today&apos;s Challenge?
             </h3>
             <p className="text-blue-200 text-lg">Solve a problem to maintain your streak and earn coins</p>
           </div>
